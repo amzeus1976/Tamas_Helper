@@ -1,0 +1,12 @@
+## Interface: 100100
+## Title: |cFF00ffaa Tamas_Helper|r [Professions_Module]
+## Title-frFR: French translation
+## Title-deDE: german translation
+## Notes: |cFF00ffaa Tama's Helper Professions|r \n previously know as the popular Weak aura of the same name
+## Author: Tamanaotsu@silvermoon-eu
+## Version: 1.0
+# SavedVariables: 
+## SavedVariablesPerCharacter: Tamas_Helper
+## IconTexture: Interface\Icons\Ability_Hunter_Pet_Bear
+
+Tamas_Helper.lua
